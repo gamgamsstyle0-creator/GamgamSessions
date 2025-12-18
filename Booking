@@ -1,0 +1,141 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GamGam’s Porch Sessions</title>
+  <style>
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: #f7f4ef;
+      color: #2b2b2b;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1, h2, h3 {
+      font-weight: normal;
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 40px;
+      font-size: 1.6rem;
+    }
+    p {
+      margin-bottom: 16px;
+    }
+    .card {
+      background: #ffffff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+      margin-bottom: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .price {
+      font-size: 1.3rem;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 26px;
+      background: #3a5a40;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 30px;
+      font-size: 1rem;
+    }
+    .cta:hover {
+      background: #2d4732;
+    }
+    .disclaimer {
+      font-size: 0.9rem;
+      color: #555;
+      margin-top: 40px;
+      border-top: 1px solid #ddd;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GamGam’s Porch Sessions</h1>
+    <p><em>A quiet place to sit, breathe, and sort things out.</em></p><div class="card">
+  <h2>🌿 Porch Session</h2>
+  <p><strong>30 minutes · One-on-one · Gentle, honest guidance</strong></p>
+  <p>
+    This is a calm, grounded conversation where you don’t have to perform or have everything figured out.
+    You bring what’s weighing on you. We untangle it together and find clarity you can actually use.
+  </p>
+  <p>These sessions are helpful if you’re dealing with:</p>
+  <ul>
+    <li>Feeling stuck, overwhelmed, or emotionally tired</li>
+    <li>Relationship confusion or repeating patterns</li>
+    <li>Life transitions, grief, or uncertainty</li>
+    <li>Needing perspective without judgment</li>
+  </ul>
+  <p><strong>What this is:</strong></p>
+  <ul>
+    <li>Thoughtful listening</li>
+    <li>Clear reflection</li>
+    <li>Grounded insight</li>
+    <li>Practical next steps you choose</li>
+  </ul>
+  <p><strong>What this is not:</strong></p>
+  <ul>
+    <li>Therapy or counseling</li>
+    <li>Medical, legal, or mental health treatment</li>
+    <li>Fortune telling or guarantees</li>
+  </ul>
+  <p class="price">$30</p>
+  <a class="cta" href="#">Book a Porch Session</a>
+</div>
+
+<div class="card">
+  <h2>🌙 Focused Porch Session</h2>
+  <p><strong>30 minutes · One topic · Direct clarity</strong></p>
+  <p>
+    This session is for when you don’t need to unpack everything.
+    You need clarity, direction, or relief around one specific issue.
+  </p>
+  <p>Common focus areas include:</p>
+  <ul>
+    <li>Relationships and boundaries</li>
+    <li>Decision fatigue and self-worth</li>
+    <li>Letting go of something that won’t let go of you</li>
+    <li>Re-centering after emotional burnout</li>
+  </ul>
+  <p class="price">$35</p>
+  <a class="cta" href="#">Book a Focused Session</a>
+</div>
+
+<h3>Soft Invitation</h3>
+<p>
+  If this feels like something your heart’s been asking for, the porch is open.
+  Book a session when you’re ready.
+</p>
+
+<div class="disclaimer">
+  <p>
+    Sessions are conversational, intuitive, and rooted in lived experience.
+    They are not a substitute for professional therapy, medical care, or legal advice.
+  </p>
+</div>
+
+  </div>
+</body>
+</html>
